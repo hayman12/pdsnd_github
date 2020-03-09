@@ -5,7 +5,7 @@
 Explore US Bikeshare Data
 
 ### Description
-Review data surrounding bike sharing within the United States.
+Review data surrounding bike sharing within three key cities in the United States.
 
 ### Files used
 chicago.csv
