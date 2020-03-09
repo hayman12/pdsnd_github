@@ -13,4 +13,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-
+Shoutout to the awesome Udacity trainers!!
