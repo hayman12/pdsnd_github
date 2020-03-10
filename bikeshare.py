@@ -41,7 +41,7 @@ def get_filters():
     # get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
         day = input(
-            'Which day would you like to see data for? For the whole week, answer \'all\':\n ').lower().title()
+            'Which day of the week would you like to see data for? For the whole week, answer \'all\':\n ').lower().title()
         if day not in ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'All'):
             print('\nSorry, that is not a valid entry.')
             continue
